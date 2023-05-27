@@ -1,7 +1,7 @@
 #!/bin/bash
 # =========================================
 #!/bin/bash
-BOT="https://raw.githubusercontent.com/artanodrop/src/ipuk/"
+BOT="https://raw.githubusercontent.com/myridwan/src/ipuk/"
 UPDATE="https://raw.githubusercontent.com/artanodrop/VVIP/ipuk/update/update.sh"
 BURIQ () {
     curl -sS https://raw.githubusercontent.com/artanodrop/izinvps/ipuk/ip > /root/tmp
@@ -192,7 +192,7 @@ echo -e "  ${BLUE}• ${GREEN}Developer           ${NC}= RstoreVPN Tunneling ${N
 echo -e "$COLOR1┌────────────────────────────────────────────────────────────┐${NC}"
 echo -e "                     << STATUS SERVICE >>                    \E[0m" | lolcat
 echo -e "$COLOR1┌────────────────────────────────────────────────────────────┐${NC}"
-echo -e "      ${COLOR2}[ SSH Websocket${NC}: ${GREEN}ON ${NC}]  [ NGINX${NC}: ${status_nginx} ] [ XRAY${NC} : ${status_xray} ] "
+echo -e "      ${COLOR2}[ SSH WeBsocket${NC}: ${GREEN}ON ${NC}]  [ NGINX${NC}: ${status_nginx} ] [ XRAY${NC} : ${status_xray} ] "
 echo -e "$COLOR1└────────────────────────────────────────────────────────────┘${NC}"
 echo -e "$COLOR1┌────────────────────────────────────────────────────────────┐${NC}"
 echo -e "$COLOR1│  \033[0m ${BOLD}${YELLOW}SSH     VMESS       VLESS      TROJAN       SHADOWSOCKS$NC  $COLOR1│"
